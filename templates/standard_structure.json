@@ -1,0 +1,7 @@
+{
+    "name_of_temp": "NetworkManagerInfo",
+    "command": "sudo journalctl -u NetworkManager -S yesterday",
+    "time": "local",
+    "sourceInfo": true,
+    "memoryInfo": true
+}

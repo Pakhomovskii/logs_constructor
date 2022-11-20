@@ -1,0 +1,6 @@
+{   
+    "name_of_temp": "Person_NetworkManagerInfo",
+    "main_command": "sudo journalctl -u NetworkManager -S yesterday",
+    "MemTotal_command": "grep MemTotal /proc/meminfo"
+
+}
