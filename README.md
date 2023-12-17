@@ -1,4 +1,4 @@
-# Python structured logs construction (using context manager) IN_PROGRESS
+## Python structured logs construction (using context manager) IN_PROGRESS
 
 ## Description
 
